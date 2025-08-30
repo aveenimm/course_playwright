@@ -1,16 +1,3 @@
-        #   /\     /\
-        #  {  `---'  }
-        #  {  O   O  }
-        #  ~~>  V  <~~
-        #   \  \|/  /
-        #    `-----'____
-        #    /     \    \_
-        #   {       }\  )_\_   _
-        #   |  \_/  |/ /  \_\_/ )
-        #    \__/  /(_/     \__/
-        #      (__/
-
-
 from playwright.sync_api import Page, expect
 
 from components.base_component import BaseComponent
